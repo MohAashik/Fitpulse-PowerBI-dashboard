@@ -1,0 +1,4 @@
+plan_id,plan_name,base_price_lkr,contract_months,includes_classes,includes_personal_training
+1,Basic,3500,1,No,No
+2,Standard,6000,6,Yes,No
+3,Premium,9500,12,Yes,Yes

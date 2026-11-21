@@ -1,0 +1,5 @@
+branch_id,branch_name,city,region,opened_date,floor_area_sqft
+1,FitPulse Colombo,Colombo,Western,2019-03-01,12000
+2,FitPulse Kandy,Kandy,Central,2020-07-01,8500
+3,FitPulse Galle,Galle,Southern,2021-11-01,6000
+4,FitPulse Negombo,Negombo,Western,2022-05-01,7000
